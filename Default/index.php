@@ -20,7 +20,7 @@
  +
  +
  + ---
- + - File Location: root->System->Smiley->default->index.php
+ + - File Location: root->System->Text-Editor->Default->index.php
  + - File Version:  0.4 - Sunday, September, 08, 2019.
  + ---
  +%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
